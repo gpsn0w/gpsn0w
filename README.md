@@ -59,7 +59,7 @@ Privacy enthusiast. Building tools that put users in control of their own device
 
 Интересувам се от поверителност. Правя инструменти, които дават контрол на потребителя над собственото му устройство и данни.
 
-**Дръжте поверителността първа.**
+**Keep Privacy First / Дръжте поверителността първа.**
 
 ---
 
