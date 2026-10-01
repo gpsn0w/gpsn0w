@@ -35,6 +35,7 @@ Privacy enthusiast. Building tools that put users in control of their own device
 
 ## БГ
 
+
 ### [DODO Assistant](https://gpsn0w.github.io/DODO/) — личен помощник на компютъра
 > Говориш му — той върши. Всичко остава при теб.
 
@@ -58,7 +59,7 @@ Privacy enthusiast. Building tools that put users in control of their own device
 
 Интересувам се от поверителност. Правя инструменти, които дават контрол на потребителя над собственото му устройство и данни.
 
-**Keep Privacy First.**
+**Поверителността на първо място.**
 
 ---
 
