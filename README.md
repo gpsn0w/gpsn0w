@@ -6,6 +6,17 @@
 
 ## Projects / Проекти
 
+### [DODO Assistant](https://gpsn0w.github.io/DODO/) — личен помощник на компютъра
+> Говориш му — той върши. Всичко остава при теб.
+
+- Говори и разбира **български**
+- Работи **офлайн** — без облак, без продадени данни
+- Новини, време, бележки, музика, будилник, прехвърляне на файлове
+- Windows / Mac / Linux
+- Built with AI assistance (Claude)
+
+---
+
 ### [MiNator](https://github.com/gpsn0w/MiNator) — Xiaomi Bloat Eliminator
 > Remove pre-installed bloatware from Xiaomi/Redmi devices. No root required.
 
@@ -18,7 +29,7 @@
 
 ## About / За мен
 
-Privacy enthusiast. Building tools that put users in control of their own devices.
+Privacy enthusiast. Building tools that put users in control of their own devices and data.
 
 **Keep Privacy First.**
 
