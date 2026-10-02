@@ -17,7 +17,7 @@
 
 ---
 
-### [MiNator](https://github.com/gpsn0w/MiNator) — Xiaomi Bloat Eliminator
+### [MiNator](https://gpsn0w.github.io/MiNator/) — Xiaomi Bloat Eliminator
 > Remove pre-installed bloatware from Xiaomi/Redmi devices. No root required.
 
 - Supports MIUI & HyperOS (tested on Xiaomi 14 — HyperOS 3.0 ✓)
@@ -58,7 +58,7 @@ Privacy enthusiast. Building tools that put users in control of their own device
 
 ---
 
-### [MiNator](https://github.com/gpsn0w/MiNator) — Xiaomi Bloat Eliminator
+### [MiNator](https://gpsn0w.github.io/MiNator/) — Xiaomi Bloat Eliminator
 > Маха предварително инсталирания bloatware от Xiaomi/Redmi устройства. Без root.
 
 - Поддържа MIUI и HyperOS (тествано на Xiaomi 14 — HyperOS 3.0 ✓)
