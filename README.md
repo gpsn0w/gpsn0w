@@ -34,6 +34,7 @@
 - Runs on a Waveshare ESP32-C5 + ST7789V display + KEYES joystick
 - English & Bulgarian docs + step-by-step tutorial
 - Built with AI assistance (Claude)
+- ⚠️ For **educational / authorized testing only**
 
 ---
 
@@ -74,6 +75,7 @@ Privacy enthusiast. Building tools that put users in control of their own device
 - Работи на Waveshare ESP32-C5 + ST7789V дисплей + KEYES джойстик
 - Документация на английски и български + урок стъпка по стъпка
 - Създаден с помощта на AI (Claude)
+- ⚠️ Само за **образователни / оторизирани тестове**
 
 ---
 
